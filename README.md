@@ -1,4 +1,4 @@
-﻿# Alexandr Kopylov
+﻿# vertygi
 
 ```
 Senior AI Systems & Inference Infrastructure Engineer
@@ -6,7 +6,7 @@ Distributed Systems | Local LLM Runtimes | Autonomous Multimodal Pipelines
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@kopylov__dev-2CA5E0?style=flat&logo=telegram)](https://t.me/kopylov_dev)
+[![Telegram](https://img.shields.io/badge/Telegram-@kkdevx-2CA5E0?style=flat&logo=telegram)](https://t.me/kkdevx)
 [![Email](https://img.shields.io/badge/Email-contact@vertygi.dev-red?style=flat&logo=gmail)](mailto:contact@vertygi.dev)
 [![Available for B2B](https://img.shields.io/badge/Status-Available%20for%20B2B%20Contracts-success?style=flat)](mailto:contact@vertygi.dev)
 
@@ -102,5 +102,5 @@ Focused on driving down inference compute expenses (35-45%), designing fault-tol
 ### Contact & Collaboration
 
 * **Email:** [contact@vertygi.dev](mailto:contact@vertygi.dev)
-* **Telegram:** [@kopylov_dev](https://t.me/kopylov_dev)
+* **Telegram:** [@kkdevx](https://t.me/kkdevx)
 * **Availability:** Available for worldwide remote B2B contracts & advisory roles.
